@@ -1,0 +1,194 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+}
+
+.logo img
+{
+    width: 200px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.nav a
+{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+.nav
+{
+    margin-top: 20px;
+}
+.comm img
+{
+    width: 70px;
+}
+.comm
+{
+    padding-left: 50px;
+}
+.intro
+{
+    background-image: url('\image/pizza1\ 1.png');
+    background-size: 100%;
+    background-repeat: none;
+    width: 100%;
+    height: 800px;
+    color: #FFFFFF;
+}
+.intro h1
+{
+    padding-top: 150px;
+    padding-left: 50px;
+    font-size: 80px;
+}
+.intro p
+{
+    padding-top: 20px;
+    padding-left: 80px;
+    font-size: 30px;
+}
+.intro img
+{
+    width: 500px;
+    padding-left: 50px;
+
+}
+.about-us
+{
+    background-color: #1E1E1E;
+}
+.head
+{
+    font-size: 40px;
+    line-height: 80px;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.head img
+{
+    width: 500px;
+}
+.about-us-content
+{
+    display: flex;
+}
+.about-us-data
+{
+    color: white;
+    font-size: 20px;
+    padding-left: 150px;
+    padding-top: 80px;
+}
+.about-us-data img
+{
+    width: 250px;
+}
+.about-us-img img
+{
+    width: 400px;
+    height: 200;
+    padding-left: 200px;
+}
+.menu
+{
+    background-color: #1E1E1E;
+}
+.menu-data
+{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.menu-detail-1,.menu-detail-2, .menu-detail-3
+{
+    display: flex;
+}
+.menu1, .menu2
+{
+    display: flex;
+    padding-top: 40px;
+    padding-left: 180px;
+}
+.menu img
+{
+    width: 200px;
+    padding-right: 30px;
+}
+.menu h2
+{
+    font-size: 22px;
+    color:#F2C94C;
+    padding-top: 10px;
+}
+.menu p
+{
+    padding-top: 10px;
+    font-size: 18px;
+    color: white;
+}
+.find-us
+{
+    background-color: #1E1E1E;
+    height: 800px;
+}
+.find-us-content
+{
+    display: flex;
+}
+.find-us-location img
+{
+    width: 500px;
+    height: auto;
+    padding-top: 50px;
+    padding-left: 250px;
+}
+.find-us-data
+{
+    color: white;
+    padding-top: 100px;
+    padding-left: 200px;
+    font-size: 25px;
+}
+.find-us-data img
+{
+    width: 20px;
+}
+.footer
+{
+    display: flex;
+    background-color: #1E1E1E;
+    
+}
+.footer-img img
+{
+    width: 200px;
+    padding-left: 200px;
+}
+.footer-contact
+{
+    font-size: 20px;
+    color: white;
+    padding-left: 500px;
+}
+.footer-contact img{
+    width: 50px;
+    padding-right: 20px;
+}
